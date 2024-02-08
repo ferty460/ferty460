@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I am currently working on my diplom work at the college
+- 🌱 I am currently studying technology in the field of web development, mainly focusing on the backend
+- ⚡ Fun fact: I love pizza.
+
 <!--
 **ferty460/ferty460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I am currently working on my diplom at the college
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
